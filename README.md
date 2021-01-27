@@ -1,5 +1,3 @@
-README.md
-
 #Amazon FBA Body Content Parser
 
 ## Opportunities
