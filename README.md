@@ -1,7 +1,7 @@
 # Amazon FBA Body Content Parser
 
 ## Opportunities
-* Parsing main attributes
+* Parsing main attributes of the email from @fba-ship-confirm@amazon.com
 * You do not need already downloaded Python
 * You do not need to download any special requirements
 * Easy to use
