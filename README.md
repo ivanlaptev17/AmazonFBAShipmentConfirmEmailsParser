@@ -12,18 +12,18 @@
 2. Download parser.exe or clone this [repository](https://github.com/LaptevIvan/AmazonFBABodyContentParser.git) in your IDE
 ### 2. Prepare for launching
 #### Screenshots
-s
-![](/pics/Screenshot_1.jpg)
 
-![](/pics/Screenshot_2.jpg)
+![](/pics/screenshot_1.jpg)
 
-![](/pics/Screenshot_3.jpg)
+![](/pics/screenshot_2.jpg)
 
-![](/pics/Screenshot_4.jpg)
+![](/pics/screenshot_3.jpg)
 
-![](/pics/Screenshot_5.jpg)
+![](/pics/screenshot_4.jpg)
 
-![](/pics/Screenshot_6.jpg)
+![](/pics/screenshot_5.jpg)
+
+![](/pics/screenshot_6.jpg)
 
 ### 3. Launch
 1. Launch the Google Sheet with script.gs
