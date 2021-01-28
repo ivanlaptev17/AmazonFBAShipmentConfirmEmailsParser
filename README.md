@@ -12,14 +12,18 @@
 2. Download parser.exe or clone this repository(https://github.com/LaptevIvan/AmazonFBABodyContentParser.git) in your IDE
 ### 2. Prepare for launching
 #### Screenshots
+##### Creating label in Gmail
 
+Attributes:
 ![](/pics/screenshot_1.png)
 
+Creating a filter:
 ![](/pics/screenshot_2.png)
 
-![](/pics/screenshot_4.png)
-
 ![](/pics/screenshot_3.png)
+
+Pasting the name of the label we created:
+![](/pics/screenshot_4.png)
 
 ### 3. Launch
 1. Launch the Google Sheet with Script.gs
