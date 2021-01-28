@@ -13,12 +13,12 @@
 ### 2. Prepare for launching
 #### Screenshots
 
-![](/pics/screenshot_1.png) | ![](/pics/screenshot_2.png) | ![](/pics/screenshot_3.png)
+![](/pics/screenshot_1.png) | ![](/pics/screenshot_2.png)
 -|-|-
-![](/pics/screenshot_5.png)
+![](/pics/screenshot_4.png) | ![](/pics/screenshot_3.png)
 
 ### 3. Launch
-1. Launch the Google Sheet with Scrip.gs
+1. Launch the Google Sheet with Script.gs
 2. Launch the parser.exe
 3. Select you plain file with fba-ship-confirm Body Content
 4. Push the button to Parse you file
