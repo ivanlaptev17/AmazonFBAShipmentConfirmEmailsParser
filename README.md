@@ -38,7 +38,7 @@
 
 ![](/pics/Screenshot_7.jpg)
 
-![](/pics/Screenshot_8.jpg)
+![](/pics/screenshot_8.jpg)
 
-*If this programme is valuable to you, feel free to donate via PayPal:
-https://www.paypal.me/greenaurora*
+If this programme is valuable to you, feel free to donate via PayPal:
+https://www.paypal.me/greenaurora 
