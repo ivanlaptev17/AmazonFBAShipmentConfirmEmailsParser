@@ -8,8 +8,8 @@
 
 ## Setup
 ### 1. Downloading programmes
-1. Download Script.gs and make a sheet in Google Sheets
-2. Download parser.exe or clone this repository(https://github.com/LaptevIvan/AmazonFBABodyContentParser.git) in your IDE
+1. Download script.gs and make a Google Sheet
+2. Download parser.exe or clone this [repository](https://github.com/LaptevIvan/AmazonFBABodyContentParser.git) in your IDE
 ### 2. Prepare for launching
 #### Screenshots
 
