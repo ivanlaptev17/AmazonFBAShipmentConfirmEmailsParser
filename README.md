@@ -35,11 +35,9 @@
 7. Open files in Google Sheets
 
 ### 4. Result
-**Analyzes**
 
 ![](/pics/screenshot_7.jpg)
 
-**Creat maps**
 
 ![](/pics/screenshot_8.jpg)
 
