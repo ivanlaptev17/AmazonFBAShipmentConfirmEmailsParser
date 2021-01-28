@@ -35,7 +35,7 @@
 7. Open files in Google Sheets
 
 ### 4. Result
-**Analyze**
+**Analyzes**
 
 ![](/pics/screenshot_7.jpg)
 
@@ -43,5 +43,5 @@
 
 ![](/pics/screenshot_8.jpg)
 
-If this programme is valuable to you, feel free to donate via PayPal:
-https://www.paypal.me/greenaurora
+*If this programme is valuable to you, feel free to donate via PayPal:
+https://www.paypal.me/greenaurora*
