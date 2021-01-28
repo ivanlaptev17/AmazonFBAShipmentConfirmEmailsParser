@@ -13,23 +13,23 @@
 ### 2. Prepare for launching
 #### Screenshots
 
-![](/pics/screenshot_1.jpg)
+![](/pics/Screenshot_1.jpg)
 
-![](/pics/screenshot_2.jpg)
+![](/pics/Screenshot_2.jpg)
 
-![](/pics/screenshot_3.jpg)
+![](/pics/Screenshot_3.jpg)
 
-![](/pics/screenshot_4.jpg)
+![](/pics/Screenshot_4.jpg)
 
-![](/pics/screenshot_5.jpg)
+![](/pics/Screenshot_5.jpg)
 
-![](/pics/screenshot_6.jpg)
+![](/pics/Screenshot_6.jpg)
 
 ### 3. Launch
-1. Launch the Google Sheet with Script.gs
+1. Launch the Google Sheet with script.gs
 2. Launch the parser.exe
-3. Select you plain file with fba-ship-confirm Body Content
-4. Push the button to Parse you file
+3. Select you plain file with [FBA-Amazon-Ship-Confirm](mailto:@fba-ship-confirm@amazon.com) Body Contents
+4. Push the button to parse you file
 5. Create a folder anywhere you want and select it
 6. After parsing check your folder
 7. Open files in Google Sheets
