@@ -25,3 +25,6 @@
 5. Create a folder anywhere you want and select it
 6. After parsing check your folder
 7. Open files in Google Sheets
+
+If this programme is valuable to you, feel free to donate via PayPal:
+https://www.paypal.me/greenaurora
