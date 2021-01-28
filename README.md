@@ -34,5 +34,14 @@
 6. After parsing check your folder
 7. Open files in Google Sheets
 
+### 4. Result
+**Analyze**
+
+![](/pics/screenshot_7.jpg)
+
+**Creat maps**
+
+![](/pics/screenshot_8.jpg)
+
 If this programme is valuable to you, feel free to donate via PayPal:
 https://www.paypal.me/greenaurora
