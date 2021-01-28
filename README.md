@@ -25,8 +25,6 @@
 
 ![](/pics/screenshot_6.jpg)
 
-![](/pics/screenshot_7.jpg)
-
 ### 3. Launch
 1. Launch the Google Sheet with script.gs
 2. Launch the parser.exe
@@ -38,7 +36,7 @@
 
 ### 4. Result
 
-
+![](/pics/screenshot_7.jpg)
 
 ![](/pics/screenshot_8.jpg)
 
