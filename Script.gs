@@ -1,5 +1,3 @@
-Script.gs
-
 var ui = SpreadsheetApp.getUi();
 function onOpen(e){
   
