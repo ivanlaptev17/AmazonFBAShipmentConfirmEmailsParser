@@ -12,7 +12,7 @@
 2. Download parser.exe or clone this [repository](https://github.com/LaptevIvan/AmazonFBABodyContentParser.git) in your IDE
 ### 2. Prepare for launching
 #### Screenshots
-
+s
 ![](/pics/Screenshot_1.jpg)
 
 ![](/pics/Screenshot_2.jpg)
