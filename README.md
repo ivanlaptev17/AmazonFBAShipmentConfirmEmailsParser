@@ -13,9 +13,9 @@
 ### 2. Prepare for launching
 #### Screenshots
 
-![](/pics/screenshot_1.png) | ![](/pics/screenshot_2.png) | ![](/pics/screenshot_3.png)
+![](/pics/screenshot_1.jpg) | ![](/pics/screenshot_2.jpg) | ![](/pics/screenshot_3.jpg)
 -|-|-
-![](/pics/screenshot_4.png) | ![](/pics/screenshot_5.png) | ![](/pics/screenshot_6.png)
+![](/pics/screenshot_4.jpg) | ![](/pics/screenshot_5.jpg) | ![](/pics/screenshot_6.jpg)
 
 ### 3. Launch
 1. Launch the Google Sheet with Script.gs
