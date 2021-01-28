@@ -1,10 +1,10 @@
 # Amazon FBA Body Content Parser
 
 ## Opportunities
-* Parsing main attributes of the email from @fba-ship-confirm@amazon.com
-* You do not need already downloaded Python
-* You do not need to download any special requirements
-* Easy to use
+* Parse and analyze information about location of your FBA customers and use it to set up look-alike target audience in your promotion
+* Parsing main attributes of the email from @fba-ship-confirm@amazon.com such as: ***Date and Time, City and State, Quantity and Order item***
+* No need pre-installed Python or other languages
+* No need to download any special software
 
 ## Setup
 ### 1. Downloading programmes
