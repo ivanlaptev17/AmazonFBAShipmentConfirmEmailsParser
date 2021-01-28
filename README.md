@@ -36,7 +36,7 @@
 
 ### 4. Result
 
-![](/pics/screenshot_7.jpg)
+![p](/pics/screenshot_7.jpg)
 
 ![](/pics/screenshot_8.jpg)
 
