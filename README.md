@@ -35,6 +35,7 @@
 7. Open files in Google Sheets
 
 ### 4. Result
+#### Screenshots
 
 ![](/pics/screenshot_7.jpg)
 
