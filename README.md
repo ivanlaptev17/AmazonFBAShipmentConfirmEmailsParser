@@ -37,9 +37,9 @@
 ### 4. Result
 #### Screenshots
 
-![](/pics/screenshot_7.jpg)
+![](/pics/Screenshot_7.jpg)
 
-![](/pics/screenshot_8.jpg)
+![](/pics/Screenshot_8.jpg)
 
 ### 5. P.S.
 *If this programme is valuable to you, feel free to donate via PayPal:
